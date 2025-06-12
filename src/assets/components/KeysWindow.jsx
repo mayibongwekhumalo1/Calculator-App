@@ -5,9 +5,9 @@ function KeysWindow({handleButton}) {
     const sciKeys = ["sin", "In", "log", "cos", "tan", "π", "e", "^", "!", "√"];
 
     const basicKeys = [
-        "7",
-        "8",
-        "9",
+        "1",
+        "2",
+        "3",
         "*",
         '/',
         '4',
@@ -15,9 +15,9 @@ function KeysWindow({handleButton}) {
         '6',
         '-',
         '(',
-        '3',
-        '2',
-        '1',
+        '7',
+        '8',
+        '9',
         '+',
         ')',
         '.',
